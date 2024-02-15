@@ -5,6 +5,7 @@
 body{
     height: 100px;
     width: 100px;
+    align-items: center;
 }
 #jumi{
     height: 250px;
