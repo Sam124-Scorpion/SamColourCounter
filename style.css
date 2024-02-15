@@ -1,0 +1,58 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+body{
+    height: 100px;
+    width: 100px;
+}
+#jumi{
+    height: 250px;
+    width: 300px;
+    display: block;
+    margin-left: 10rem;
+    margin-top: 20px;
+    background-color: antiquewhite;
+    border: 2px solid whitesmoke;
+    border-radius: 50%;
+    align-items: center;
+}
+#main{
+    text-align: center;
+    align-items: center;
+    display: block;
+}
+.hclass{
+    margin-left: 15rem;
+    color: rgb(41, 65, 66);
+    
+}
+#h1t{
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+}
+.buttons{
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 20px;
+    margin: 5px 10px;
+    position:relative;
+    color: white;
+    background-color: rgb(150, 85, 210);
+    border-radius: 2px;
+    border: 2px solid black;
+    cursor: pointer;
+    transition: background-color 0.35s;
+
+}
+.buttons:hover{
+    background-color: rgb(42, 12, 70);
+}
+.button{
+    display:flex;
+    text-align: center;
+    margin: 18px;
+}
+
