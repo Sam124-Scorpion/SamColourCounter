@@ -22,12 +22,14 @@ body{
     width: 500px;
     text-align: center;
     align-items: center;
+    justify-content: center;
     display: block;
 }
 .hclass{
     text-align: center;
     margin-left: 45.35vw;
     margin-top: 10vh;
+    justify-content: center;
     color: rgb(41, 65, 66);
     
 }
